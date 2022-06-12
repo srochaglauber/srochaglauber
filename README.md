@@ -3,7 +3,7 @@
 - 🔭 I'm currently working with frontend.
 - 🌱 Studying Javascript.
 
-<div align="center">
+<div>
   <a href="https://github.com/srochaglauber">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=srochaglauber&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srochaglauber&layout=compact&langs_count=7&theme=codeSTACKr"/>
