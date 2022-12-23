@@ -1,7 +1,7 @@
 ## Hi! I'm Glauber Rocha 👋
 
 - 🔭 I'm currently working with frontend.
-- 🌱 Studying Javascript.
+- 🌱 Studying HTML & CSS, Javascript and React JS.
 
 <div align="center">
   <a href="https://github.com/srochaglauber">
